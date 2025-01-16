@@ -83,7 +83,7 @@ packages:
 
 - Create the main application that is `@local-monorepo/site`
 
-	`pnpm dlx nuxi@latest init site`
+	`pnpm dlx nuxi@latest init ./packages/site `
 
 - Update the  name in the `package/site/package.json ` to `@local-monorepo/site`
 
