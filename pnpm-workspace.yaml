@@ -1,0 +1,2 @@
+packages:
+  - packages/* # You can change this to match your project structure or name where all the services or applications will go
